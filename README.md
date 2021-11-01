@@ -5,7 +5,7 @@ Display bgp session status.
 
 Output example:
 
-10.213.32.110 : 6
+10.213.32.110 : 6  
 10.214.32.110 : 6
 
 6 - Ok.
